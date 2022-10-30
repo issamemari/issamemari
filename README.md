@@ -16,7 +16,7 @@
 </p>
 
 ### About me 🚀
-- 🎓  I am a Deep Learning Engineer and Data Science Manager @[Synthesio](https://www.synthesio.com/)
+- 🎓  I am a Machine Learning Lead @[Luko](https://fr.luko.eu/en/)
 - ❤️ I am passionate about **Software Engineering, Machine Learning/Deep Learning, Computer Vision and Music**
 - 📜 BSc Informatics and MSc Artificial Intelligence
 - 📫 How to reach me: issa@memari.me
