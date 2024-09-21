@@ -18,7 +18,7 @@
 ### About me 🚀
 - 🎓  I am a Machine Learning Lead @[Luko](https://fr.luko.eu/en/)
 - ❤️ I am passionate about **Software Engineering, Machine Learning/Deep Learning, Computer Vision and Music**
-- 📜 BSc Informatics and MSc Artificial Intelligence
+- 📜 MSc Artificial Intelligence
 - 📫 How to reach me: issa@memari.me
 - 🏠 Paris (🇫🇷)
 
