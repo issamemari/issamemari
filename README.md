@@ -16,7 +16,7 @@
 </p>
 
 ### About me 🚀
-- 🎓  I am a Machine Learning Lead @[Luko](https://fr.luko.eu/en/)
+- 🎓  Senior Machine Learning Engineer @[Gorgias](https://www.gorgias.com/)
 - ❤️ I am passionate about **Software Engineering, Machine Learning/Deep Learning, Computer Vision and Music**
 - 📜 MSc Artificial Intelligence
 - 📫 How to reach me: issa@memari.me
